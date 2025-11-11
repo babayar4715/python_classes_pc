@@ -9,6 +9,7 @@ for word in words:
 
 print(word_length)
 print(words)
+print(words)
 
 sentence = "the quick brown fox jumps over the lazy dog"
 words = sentence.split()
@@ -27,5 +28,6 @@ fruits = ("apple", "banana", "cherry")
 print(green)
 print(yellow)
 print(red)
+
 
 
