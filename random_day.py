@@ -13,4 +13,5 @@ days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sun
 chosen_day = random.choice(days)
 
 print("Randomly chosen day:", chosen_day)
+print(
 
